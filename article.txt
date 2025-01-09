@@ -32,12 +32,8 @@ Import the SQL file located in the database folder of the source code.
 Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
 Open a web browser and browse the project. E.g [http://localhost/house-rental-management-system] 
 Admin Default Access
-Username: admin
+Username: groupi
 
 Password: admin123
-
-I hope this simple house rental management system will help you with what you are looking for. This project was developed for educational purposes only. Feel free to download and modify the source code in the way you wanted.
-
-Explore more on this website for more source codes and tutorials.
 
 Enjoy!
